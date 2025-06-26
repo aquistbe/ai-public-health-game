@@ -4,7 +4,7 @@
 This interactive game helps public health students explore how AI can be used to tackle real-world health challenges.
 
 ## 🎮 How to Play
-1. Visit the [Live Game](https://yourusername.github.io/ai-public-health-game) or run locally.
+1. Visit the [Live Game](https://aquistbe.github.io/ai-public-health-game) or run locally.
 2. Fill in your name and email.
 3. Read each scenario and write your AI-informed strategy.
 4. Rate each idea (Creativity, Feasibility, Equity).
